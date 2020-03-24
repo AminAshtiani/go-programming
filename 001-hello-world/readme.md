@@ -1,6 +1,6 @@
 # Hello world
 
-It's a traditional piece of code that every developer write for the first time.here we have this code but it's important to get familiar with some useful command to how to run, build and etc.
+It's a traditional piece of code that every developer write for the first time.here we have this code but it's important to get familiar with some useful tips and command to how to run, build and etc.
 ## Environment variables
 The `GOPATH` environment variable lists places to look for Go code. On Unix, the value is a colon-separated string. On Windows, the value is a semicolon-separated string. On Plan 9, the value is a list.
 
